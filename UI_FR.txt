@@ -1,0 +1,7 @@
+ExtraMapSymbolsUI_FR = {
+	UI_ExtraMapSymbolsUI_Options = "Options",
+	UI_ExtraMapSymbolsUI_OptionsAlternativeSymbols = "Utiliser des variantes de symboles aléatoires",
+	UI_ExtraMapSymbolsUI_OptionsColumns = "Colonnes",
+	UI_ExtraMapSymbolsUI_OptionsScalingStep = "Cran de mise à l'échelle"
+	UI_ExtraMapSymbolsUI_OptionsScalingTooltip = "Pavé numérique +/- : changer de symbole/échelle du texte\nEntrée du Pavé numérique : réinitialiser aux valeurs par défaut"
+}
