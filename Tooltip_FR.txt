@@ -1,0 +1,6 @@
+Tooltip_FR = {
+	Tooltip_Map_CantWrite = "Nécessite un stylo, un crayon ou des crayons de couleur.",
+	Tooltip_Map_CantEdit = "Nécessite une gomme et un stylo, un crayon ou des crayons de couleur.",
+
+	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "Besoin d'un paquet de crayons."
+}
