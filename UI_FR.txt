@@ -1,4 +1,4 @@
-ExtraMapSymbolsUI_FR = {
+UI_FR = {
 	UI_ExtraMapSymbolsUI_Options = "Options",
 	UI_ExtraMapSymbolsUI_OptionsAlternativeSymbols = "Utiliser des variantes de symboles aléatoires",
 	UI_ExtraMapSymbolsUI_OptionsColumns = "Colonnes",
